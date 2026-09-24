@@ -43,6 +43,25 @@
   - Split: seller (net of protocol fee), protocol fee to city treasury
 - Protocol fee: small, fixed, published. (TBD — e.g. 2.5%)
 
+## Advertising
+
+The city is foot traffic — and foot traffic is ad inventory.
+
+- **Billboards** — designated ad plots (high-traffic intersections, plazas).
+  Auctioned per time slot, paid in crypto. Billboard owners (deed holders
+  of ad-zoned plots) get the revenue minus protocol fee.
+- **Building wraps** — plot owners can sell their building's exterior as
+  ad space. Their building, their deal, settled on-chain.
+- **Sponsored districts** — naming rights for districts/plazas. Highest
+  bidder per season.
+- **Featured placement** — storefronts pay for highlighted pins on the city
+  map and directory. Discovery as a service.
+- **Event sponsorships** — in-world events (tournaments, openings, concerts)
+  with sponsor slots.
+
+All ad placements are time-boxed, on-chain, and transparent — no dark
+patterns, no tracking. Advertisers pay for placement, not for user data.
+
 ## Treasury
 
 - Protocol fees accrue to the city treasury (multisig).
