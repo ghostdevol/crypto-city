@@ -43,6 +43,21 @@
   - Split: seller (net of protocol fee), protocol fee to city treasury
 - Protocol fee: small, fixed, published. (TBD — e.g. 2.5%)
 
+## Entertainment
+
+Games are businesses. The entertainment district runs on the same rails
+as everything else — pay to play, prizes in crypto, all on-chain.
+
+- **Casino** — real on-chain games (slots, tables). Provably fair,
+  house edge published.
+- **Mini-games** — golf, go-karts, paintball, billiards, whatever devs build.
+  Entry fees in crypto, tournament pots, leaderboards.
+- **Events** — concerts, tournaments, openings. Ticket sales on-chain,
+  sponsor slots (see Advertising).
+
+Anyone can open a venue on their commercial plot. The city doesn't run the
+games — it provides the streets, the deeds, and the payment rails.
+
 ## Advertising
 
 The city is foot traffic — and foot traffic is ad inventory.

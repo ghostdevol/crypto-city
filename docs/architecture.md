@@ -53,6 +53,23 @@ They talk over a localhost WebSocket bridge with a tiny JSON protocol.
 - Deployed on EVM chains; Sepolia first, mainnet after audit
 - See `contracts.md` for specs
 
+## dApp registry (the dev building)
+
+Developers can build for CryptoCity. The process:
+
+1. **Submit** — dev submits their dApp: code, contract addresses, what it
+   does, what permissions it needs. Like an EIP-style proposal.
+2. **Review** — the dApp gets checked: contracts verified, no malicious
+   logic, no key harvesting, permissions match what it claims. Automated
+   checks + human review.
+3. **Approve** — approved dApps get listed in the registry and can be
+   deployed: either in the dev district building, or on the dev's own
+   property.
+4. **Revoke** — malicious or broken dApps get pulled. Registry is on-chain,
+   revocation is transparent.
+
+No review, no deployment. Real money means real accountability.
+
 ## Data flow: buying from a storefront
 
 1. Customer walks in, picks a product
