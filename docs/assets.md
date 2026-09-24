@@ -3,6 +3,13 @@
 Procedural mesh generation for everything in the city. Two tiers: what users
 can make, and what stays in dev hands.
 
+## Original material only
+
+Everything in CryptoCity is freshly generated. No Unity asset store, no
+third-party models, no licensing fights. Every mesh comes out of our own
+generators — characters, buildings, terrain, all of it. What you see in the
+city was born in the city.
+
 ## User tier — personal assets
 
 Available to everyone through the in-world studio. Pay per mint.
