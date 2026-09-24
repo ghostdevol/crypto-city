@@ -62,6 +62,11 @@ The city is foot traffic — and foot traffic is ad inventory.
 All ad placements are time-boxed, on-chain, and transparent — no dark
 patterns, no tracking. Advertisers pay for placement, not for user data.
 
+**Ad philosophy:** ambient, never interruptive. Billboards, video screens,
+building wraps — things you see walking around, like a real city. No pop-ups,
+no forced views, no modals blocking your path. If you don't want to look at
+it, you just keep walking.
+
 ## Treasury
 
 - Protocol fees accrue to the city treasury (multisig).
