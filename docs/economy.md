@@ -69,6 +69,11 @@ Your avatar is you in the city. The avatar studio:
   premium meshes, clothes, animations, effects, NFT trait mapping.
 - **NFT import** — own a PFP NFT? Bring it in. The builder maps your NFT's
   traits to 3D — your ape, your punk, your whatever, walking the streets.
+- **Photo to avatar** — upload a picture and generate your character from it.
+  Three allowed sources: non-copyrighted images, your owned NFT (verified
+  on-chain), or a photo of yourself. The pipeline (built on open image-to-3D
+  models) turns the image into a rigged, game-ready mesh. Copyrighted material
+  you don't own gets rejected — the city doesn't do stolen faces.
 - **Pay to mint** — your avatar is minted as an NFT. You own your identity,
   transferable, sellable. Premium meshes, animations, and effects cost extra.
 - **Verification** — linked wallet proves you own the NFT you're wearing.
