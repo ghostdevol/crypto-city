@@ -64,6 +64,9 @@ Your avatar is you in the city. The avatar studio:
 
 - **Mesh builder** — design your character in-world: body, clothes, accessories.
   Badass builder, not a slider hell. What you make is what walks around.
+- **Free avatar** — everyone gets a basic avatar free. You're in the world,
+  you look like a person, no paywall on existence. Customization costs —
+  premium meshes, clothes, animations, effects, NFT trait mapping.
 - **NFT import** — own a PFP NFT? Bring it in. The builder maps your NFT's
   traits to 3D — your ape, your punk, your whatever, walking the streets.
 - **Pay to mint** — your avatar is minted as an NFT. You own your identity,
