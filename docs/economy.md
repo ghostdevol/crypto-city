@@ -58,6 +58,22 @@ as everything else — pay to play, prizes in crypto, all on-chain.
 Anyone can open a venue on their commercial plot. The city doesn't run the
 games — it provides the streets, the deeds, and the payment rails.
 
+## Identity & Avatars
+
+Your avatar is you in the city. The avatar studio:
+
+- **Mesh builder** — design your character in-world: body, clothes, accessories.
+  Badass builder, not a slider hell. What you make is what walks around.
+- **NFT import** — own a PFP NFT? Bring it in. The builder maps your NFT's
+  traits to 3D — your ape, your punk, your whatever, walking the streets.
+- **Pay to mint** — your avatar is minted as an NFT. You own your identity,
+  transferable, sellable. Premium meshes, animations, and effects cost extra.
+- **Verification** — linked wallet proves you own the NFT you're wearing.
+  No fakes.
+
+Avatar minting is protocol revenue — every new face in the city pays the
+studio fee.
+
 ## Advertising
 
 The city is foot traffic — and foot traffic is ad inventory.
