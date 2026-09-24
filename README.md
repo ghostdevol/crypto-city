@@ -30,6 +30,7 @@ build. See `docs/`.
 - `docs/architecture.md` — how the pieces connect
 - `docs/economy.md` — land, deeds, rentals, storefronts, fees
 - `docs/contracts.md` — smart contract specifications
+- `docs/assets.md` — mesh generation: user assets vs dev world-building
 
 ## Apps
 
