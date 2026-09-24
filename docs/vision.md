@@ -48,3 +48,7 @@ set prices; the city takes a small protocol fee on sales. See `economy.md`.
    sellable, rentable.
 4. **Open source, protected business.** BSL 1.1 — visible code, commercial
    use licensed. Trust through transparency, income through licensing.
+5. **Free to walk, pay to own.** You don't need property to live in the
+   city. Walk the streets, use dApps, play games, shop NFTs, hit the casino —
+   all open. Ownership is for businesses and investors. Tourists keep the
+   streets alive; owners give them somewhere to go.
